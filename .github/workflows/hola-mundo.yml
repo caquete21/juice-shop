@@ -2,7 +2,7 @@ name: Hola Mundo en Runner
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   hola-mundo:
